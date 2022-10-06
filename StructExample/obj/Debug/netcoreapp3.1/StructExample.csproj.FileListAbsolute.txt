@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.exe
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.deps.json
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.runtimeconfig.json
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.dll
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\bin\Debug\netcoreapp3.1\StructExample.pdb
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.dll
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.pdb
+C:\Users\Lenovo\Desktop\P134\StructExample\StructExample\obj\Debug\netcoreapp3.1\StructExample.genruntimeconfig.cache
